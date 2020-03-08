@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 50px;
+}
+body{
+  text-align: center;
+  background-color: #325432ad;
+  color: white;
+  font-family: 'Bellota', cursive;
+}
+#btn{
+  height:40px;
+  width:7%;
+  border-radius:5%;
+  background-color: grey;
+  color: white;
+  font-size: 20px;
+  border:2px solid yellow;
+}
